@@ -1,0 +1,27 @@
+Group Member Database Schema
+
+General
+> username - Same username as email account
+
+Info
+> first_name - Member first name
+> last_name - Member last name
+> year - Year in school
+> graduation_year - Year of graduation
+> voice_part - General voice part
+> role - Role within group
+> hometown_city - Hometown city
+> hometown_state - Hometown state
+
+Social Media
+> website - Website url
+> facebook - Facebook url
+> twitter - Twitter url
+
+Contact
+> cell - Cell phone number
+> main_email - Non group email
+
+Attendance
+> gig_attendance - Number of gigs attendended
+> rehearsal_attendance - Number of rehearsal attended
